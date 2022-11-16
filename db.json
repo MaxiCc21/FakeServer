@@ -1,0 +1,63 @@
+{
+    "hombre": [
+        {
+            "id": 1,
+            "img1": "../img/masculino/buzo-blanco.jpg",
+            "img2": "https://dummyimage.com/200/000000/ffffff.jpg",
+            "img3": "https://dummyimage.com/200/000000/ffffff.jpg",
+            "alt": "Imagen de Buzo blanco",
+            "description": "Buzo blanco",
+            "price": 7000,
+          },
+          {
+            "id": 2,
+            "img1": "../img/masculino/camisa-azul.jpg",
+            "img2": "https://dummyimage.com/200/000000/ffffff.jpg",
+            "img3": "https://dummyimage.com/200/000000/ffffff.jpg",
+            "alt": "Imagen de Camisa azul",
+            "description": "Camisa azul",
+            "price": 5000,
+          },
+          {
+            "id": 3,
+            "img1": "https://placeimg.com/200/200/any",
+            "img2": "https://dummyimage.com/200/000000/ffffff.jpg",
+            "img3": "https://dummyimage.com/200/000000/ffffff.jpg",
+            "alt": "Imagen de Zapatilla deportiva",
+            "description": "Zapatilla deportiva",
+            "price": 12000,
+          }
+    ],
+    "mujer": [
+        {
+            "id":1,
+            "img1": "../img/vestidoAzul.jpg",
+            "img2": "https://dummyimage.com/200/000000/ffffff.jpg",
+            "img3": "https://dummyimage.com/200/000000/ffffff.jpg",
+            "alt": "Imagen de vestido Azul",
+            "description": "vestido Azul",
+            "price": 5000,
+          },
+          {
+            "id":2,
+            "img1": "../img/conjunto-marron.jpg",
+            "img2": "https://dummyimage.com/200/000000/ffffff.jpg",
+            "img3": "https://dummyimage.com/200/000000/ffffff.jpg",
+            "alt": "Imagen de conjunto marron",
+            "description": "Conjunto marron",
+            "price": 15000,
+          },
+          {
+            "id":3,
+            "img1": "../img/tacos-rojos.jpg",
+            "img2": "https://dummyimage.com/200/000000/ffffff.jpg",
+            "img3": "https://dummyimage.com/200/000000/ffffff.jpg",
+            "alt": "Imagen de Tacones Rojos",
+            "description": "Tacones rojos",
+            "price": 4500,
+          }
+    ],
+    "profile": {
+    "name": "Profile 1"
+    }
+    }
